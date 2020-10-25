@@ -1,13 +1,13 @@
 {
-  "main.css": "/youtube/static/css/main.5ed2349b.chunk.css",
-  "main.js": "/youtube/static/js/main.0bb8d9ce.chunk.js",
-  "main.js.map": "/youtube/static/js/main.0bb8d9ce.chunk.js.map",
-  "runtime~main.js": "/youtube/static/js/runtime~main.a6ce4185.js",
-  "runtime~main.js.map": "/youtube/static/js/runtime~main.a6ce4185.js.map",
-  "static/js/2.524296dc.chunk.js": "/youtube/static/js/2.524296dc.chunk.js",
-  "static/js/2.524296dc.chunk.js.map": "/youtube/static/js/2.524296dc.chunk.js.map",
-  "index.html": "/youtube/index.html",
-  "precache-manifest.c4a798ea0bb1c3e5e48305a002077c7d.js": "/youtube/precache-manifest.c4a798ea0bb1c3e5e48305a002077c7d.js",
-  "service-worker.js": "/youtube/service-worker.js",
-  "static/css/main.5ed2349b.chunk.css.map": "/youtube/static/css/main.5ed2349b.chunk.css.map"
+  "main.css": "/habit-tracker/static/css/main.5ed2349b.chunk.css",
+  "main.js": "/habit-tracker/static/js/main.0bb8d9ce.chunk.js",
+  "main.js.map": "/habit-tracker/static/js/main.0bb8d9ce.chunk.js.map",
+  "runtime~main.js": "/habit-tracker/static/js/runtime~main.db3d6ae4.js",
+  "runtime~main.js.map": "/habit-tracker/static/js/runtime~main.db3d6ae4.js.map",
+  "static/js/2.524296dc.chunk.js": "/habit-tracker/static/js/2.524296dc.chunk.js",
+  "static/js/2.524296dc.chunk.js.map": "/habit-tracker/static/js/2.524296dc.chunk.js.map",
+  "index.html": "/habit-tracker/index.html",
+  "precache-manifest.485fc4a5e32b3dbd5ae3ba4bb37811d7.js": "/habit-tracker/precache-manifest.485fc4a5e32b3dbd5ae3ba4bb37811d7.js",
+  "service-worker.js": "/habit-tracker/service-worker.js",
+  "static/css/main.5ed2349b.chunk.css.map": "/habit-tracker/static/css/main.5ed2349b.chunk.css.map"
 }
